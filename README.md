@@ -81,6 +81,11 @@ not is ci build
 ![录制_2022_05_08_17_45_33_548](https://user-images.githubusercontent.com/11375905/167290788-3ead6885-336a-410f-b9be-1da8e58ae238.gif)
 
 
+## 连接B 串口，设置波特率如下，可以看到日志输出
+
+![image](https://user-images.githubusercontent.com/11375905/167291608-e7952097-78aa-4b1c-aeea-031933262957.png)
+
+
 # 参考
 
 https://www.cnblogs.com/dongxiaodong/p/15674465.html
