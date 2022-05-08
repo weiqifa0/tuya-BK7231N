@@ -74,6 +74,13 @@ not is ci build
 * UA是用户固件，本地调试用原厂工具烧录时使用
 * UG是升级固件
 
+## 烧录文件
+* 点击烧录软件的烧录按钮
+* 按下工程模块的复位按键，然后会自动进行烧录
+
+![录制_2022_05_08_17_45_33_548](https://user-images.githubusercontent.com/11375905/167290788-3ead6885-336a-410f-b9be-1da8e58ae238.gif)
+
+
 # 参考
 
 https://www.cnblogs.com/dongxiaodong/p/15674465.html
