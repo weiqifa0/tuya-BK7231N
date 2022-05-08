@@ -83,6 +83,11 @@ not is ci build
 
 ## 连接B 串口，设置波特率如下，可以看到日志输出
 
+拨码开关拨到ON的位置
+![image](https://user-images.githubusercontent.com/11375905/167291736-196b4226-70d9-4b9c-95da-f26f76d36160.png)
+
+打开串口工具
+
 ![image](https://user-images.githubusercontent.com/11375905/167291608-e7952097-78aa-4b1c-aeea-031933262957.png)
 
 
