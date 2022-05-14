@@ -38,6 +38,10 @@ SDK 是从tuya官方直接以压缩包的形式发给我的，因为涉及商业
 
 `./build_app.sh apps/tuya_bk7231n_pet_feed_demo/ tuya_bk7231n_pet_feed_demo 0.0.0.1`
 
+第一次编译的时候会比较慢
+![image](https://user-images.githubusercontent.com/11375905/168415428-c2941bb4-26af-4829-b273-50d57b385ff9.png)
+
+
 这个SDK主打的是宠物喂养，里面有一个demo是用来实现宠物喂养相关的示例代码。
 
 我记得我们当时做宠物猫厕所的时候，我们用的是乐鑫的ESP32,这也是一个双模WIFI、BLE模组，因为是使用模组，从外观上看ESP32更大一些，博通的这个更偏小一些。
